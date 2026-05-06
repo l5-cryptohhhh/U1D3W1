@@ -1,0 +1,24 @@
+
+/* regole CSS */
+
+h1 {
+    color: red;
+}
+
+input:focus {
+    background-color: rgb(121, 121, 121);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: rgb(48, 10, 242);
+}
